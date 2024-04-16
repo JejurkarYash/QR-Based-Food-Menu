@@ -1,6 +1,6 @@
-# React + Vite
+# QR Based Food Menu
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+it is a simple QR Based Food Menu System which allow user's to scan the qr code and see the menu and place the order from their smartphones
 
 Currently, two official plugins are available:
 
